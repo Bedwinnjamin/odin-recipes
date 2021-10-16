@@ -1,0 +1,58 @@
+img{
+  width: 400px;
+  height: auto;
+}
+
+h1{
+  background-color:rgb(77, 141, 224);
+  color: bisque;
+  width: auto;
+  text-align: center;
+  font-size: 72px;
+}
+
+a:link.back,
+a:visited.back{
+  background-color: red;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+}
+
+ul,
+ol{
+  font-weight: 700;
+}
+
+.recipelist{
+  color: brown;
+  font-size: large;
+}
+
+ul.indexlist{
+  font-size: 72px;
+  margin: auto;
+  text-align: center;
+  list-style: none;
+  background-color: rgb(223, 255, 149);
+}
+
+li{
+  font-family:sans-serif;
+  font-weight: 100;
+}
+
+.container{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.container p{
+  background-color: chocolate;
+}
+
+#las{
+  background-color: cornflowerblue;
+}
